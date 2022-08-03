@@ -13,7 +13,14 @@
   - the same can be said for average fare per ride
 - The Highest average fare per driver were Rural areas, but had the lowest drivers, rides and total fares ($)
   - The same can be said for average fare per ride
+- Total Fares spiked around March for all city types. 
+- Suburban fares increased after the mid-month of April
   
-  ![Results](https://github.com/mbugyis/PyBer_Analysis/blob/main/analysis/city_type_results.png)
-  
-  
+![Results](https://github.com/mbugyis/PyBer_Analysis/blob/main/analysis/city_type_results.png)
+
+## Summary
+
+- Recommendations
+  1. Encourgae Ubran drivers to give rides in the Suburbs or Rural areas (more drivers than rides in urban areas)
+  2. Lower the required fare rate in rural areas (too high)
+  3. Increase the fare rate in urban areas (too low, can increase revenue)
