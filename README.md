@@ -14,4 +14,6 @@
 - The Highest average fare per driver were Rural areas, but had the lowest drivers, rides and total fares ($)
   - The same can be said for average fare per ride
   
-  ![Results]
+  ![Results](https://github.com/mbugyis/PyBer_Analysis/blob/main/analysis/city_type_results.png)
+  
+  
